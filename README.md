@@ -38,9 +38,10 @@ Taking Part
 
 If you're proficient enough in git, you can fork this repository, write your
 code and submit a pull request. If you've no idea what I just said, you can
-just write your code and email it to me at sl <at> toastwaffle <dot> com.
+just write your code and email it to me at sl at toastwaffle dot com.
 
 I look forward to seeing your submissions
 
 Samuel Littley
+
 2013-04-08
